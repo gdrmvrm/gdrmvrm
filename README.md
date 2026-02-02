@@ -12,7 +12,7 @@ What I brought with me: the ability to translate between technical teams and sta
 ---
 
 ### What I'm Building With
-**Frontend**— React, TypeScript, Next.js, React Native, Redux Toolkit, Zustand, Tailwind CSS
+**Frontend** — React, TypeScript, Next.js, React Native, Redux Toolkit, Zustand, Tailwind CSS
 **Backend** — Node.js, Express, FastAPI, PostgreSQL, MongoDB
 **Tools & Platforms** - Figma, Git/GitHub, AI assisted (Cursor, Claude, Github Co-pilot), Netlify, Vercel, GitHub Actions
 **Testing & Practices** — Unit & Integration Tests, Cypress, TDD, accessibility-first, responsive design
