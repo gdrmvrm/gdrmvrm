@@ -13,11 +13,6 @@ I'm a **Frontend Developer** based in London, UK — combining a solid foundatio
 
 Please check my pinned repos for project highlights.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-6366F1?style=flat&logo=vercel&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/-gayathri.dharmavaram@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gayathri.dharmavaram@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gayathri--dharmavaram-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayathri-dharmavaram)
-[![GitHub](https://img.shields.io/badge/GitHub-gdrmvrm-181717?style=flat&logo=github&logoColor=white)](https://github.com/gdrmvrm)
-
 ---
 
 ### 🖥️ Frontend
