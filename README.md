@@ -38,7 +38,6 @@ Looking for frontend roles at companies working on sustainability, fintech, or a
 
 Drawn to teams that value clean code, clear communication, and thoughtful delivery over hustle culture.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gdrmvrm&show_icons=true&hide_title=true)
 
 
 
