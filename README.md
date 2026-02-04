@@ -15,7 +15,7 @@ After delivering multi-million-pound infrastructure projects, I wanted to build 
 
 What carried over: 
 - Translating between technical teams and stakeholders
-- Tinking in systems
+- Thinking in systems
 - A low tolerance for unnecessary complexity
 
 ---
